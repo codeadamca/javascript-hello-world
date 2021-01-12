@@ -7,7 +7,7 @@ This sample file will display a "Hello World!" message when the button is clicke
 ## Steps
 
 1. Create a new HTML file and name it hello-world.html.
-2. Add the follogin HTML:
+2. Add the following HTML:
 
 ```javascript
 <!doctype html>
