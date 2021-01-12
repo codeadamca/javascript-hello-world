@@ -26,7 +26,7 @@ This sample file will display a "Hello World!" message when the button is clicke
 ```
 
 3. Save the file and test in a browser.
-4. Try uploading this file to your hosting and testing it using your domain name. It will look something like this:
+4. Try uploading this file to your hosting and then test it using your domain name. It will look something like this:
 
 ```
 http://www.domain.com/folder/hello-world.html
