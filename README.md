@@ -1,4 +1,4 @@
-# javascript-hello-world
+# JavaScript Hello World
 
 JavaScript is a scripting computer programming language commonly used to create interactive effects within web browsers.
 
