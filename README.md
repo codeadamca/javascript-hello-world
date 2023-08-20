@@ -9,30 +9,30 @@ This sample file will display a "Hello World!" message when the button is clicke
 1. Create a new HTML file and name it hello-world.html.
 2. Add the following HTML:
 
-```javascript
-<!doctype html>
-<html>
-<head>
-    <title>JavaScript Hello World!</title>
-</head>
-<body>
-
-    <h1>JavaScript Hello World!</h1>
-
-    <button onclick="alert('Hello World!');">Clck Me</button>
-
-</body>
-</html>
-```
+    ```javascript
+    <!doctype html>
+    <html>
+    <head>
+        <title>JavaScript Hello World!</title>
+    </head>
+    <body>
+    
+        <h1>JavaScript Hello World!</h1>
+    
+        <button onclick="alert('Hello World!');">Clck Me</button>
+    
+    </body>
+    </html>
+    ```
 
 3. Save the file and test in a browser.
 4. Try uploading this file to your hosting and then test it using your domain name. It will look something like this:
+    
+    ```
+    http://www.domain.com/folder/hello-world.html
+    ```
 
-```
-http://www.domain.com/folder/hello-world.html
-```
-
-> Full tutorial URL  
+> Full tutorial URL:  
 > https://codeadam.ca/learning/javascript-hello-world.html
 
 *** 
