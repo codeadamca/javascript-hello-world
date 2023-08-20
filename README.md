@@ -32,12 +32,16 @@ This sample file will display a "Hello World!" message when the button is clicke
 http://www.domain.com/folder/hello-world.html
 ```
 
-## Tutorial Requirements:
+> Full tutorial URL
+> https://codeadam.ca/learning/javascript-hello-world.html
+
+*** 
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
-Full tutorial URL: https://codeadam.ca/learning/javascript-hello-world.html
+* [W3Schools - JavaScript](https://www.w3schools.com/js/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
