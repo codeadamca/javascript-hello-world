@@ -32,7 +32,7 @@ This sample file will display a "Hello World!" message when the button is clicke
 http://www.domain.com/folder/hello-world.html
 ```
 
-> Full tutorial URL
+> Full tutorial URL  
 > https://codeadam.ca/learning/javascript-hello-world.html
 
 *** 
